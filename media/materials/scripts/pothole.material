@@ -1,0 +1,13 @@
+material Pothole{
+    technique
+    {
+        pass
+        {
+            texture_unit
+            {
+                texture ../textures/pothole.png
+                scale 1 1
+            }
+        }   
+    }
+}
